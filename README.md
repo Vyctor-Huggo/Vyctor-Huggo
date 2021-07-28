@@ -7,4 +7,6 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vyctor-Huggo)](https://github.com/anuraghazra/github-readme-stats)
+### NOTE: "Most Used Languages" it's a github metric of which languages I have the most code on github, a feature of github-readme-stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
