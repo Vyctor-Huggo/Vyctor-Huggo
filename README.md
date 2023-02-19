@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on random stuff
 - 🌱 I’m currently learning python
 - 👯 I'm looking to learning Competitive Programing
-- 📫 How to reach me: vyctorhuggo322@gmail.com
+- 📫 How to reach me: vyctorhaq@proton.me
 
 
 
