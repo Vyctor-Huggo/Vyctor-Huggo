@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on random stuff
 - 🌱 I’m currently learning python
-- 👯 I'm looking to learning in artificial intelligence
+- 👯 I'm looking to learning Competitive Programing
 - 📫 How to reach me: vyctorhuggo322@gmail.com
 
 
