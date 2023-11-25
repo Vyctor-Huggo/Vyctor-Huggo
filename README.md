@@ -25,6 +25,6 @@
 </div>
 
 ## Learning
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,cs,cpp.mysql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,cs,cpp,mysql&theme=dark)](https://skillicons.dev)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=286F32&height=120&section=footer"/>
